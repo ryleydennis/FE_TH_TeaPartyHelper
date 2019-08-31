@@ -1,0 +1,12 @@
+#Fire Emplem Tea Party Helper
+Silly script to print out relevant tea party information for Fire Emplem Three Houses characters.
+
+##Instructions
+run the interface script:
+```
+python3 TeaPartyInterface.py
+```
+and then follow the instructions
+
+
+*There are definitly bugs and missing content
